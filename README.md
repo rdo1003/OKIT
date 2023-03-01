@@ -36,7 +36,7 @@ to install OKIT in the root directory /okit:
 (this should take about 10 min the first time through).
 
 
-***Gunicorn is a Python Web Server Gateway Interface HTTP Server for UNIX***
+***Gunicorn is a Python Web Server Gateway Interface HTTP Server for UNIX
 
 Once Gunicorn is running you can visit the public IP of your Linux VM.
 ![image](https://user-images.githubusercontent.com/126724623/222270880-1c266523-eaf9-4f58-b71c-bf47aeff6adf.png)
