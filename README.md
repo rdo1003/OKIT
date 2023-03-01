@@ -11,9 +11,9 @@ Generating an API Signing Key:
 
 Once generated, upload the public key to IAM (Add API Key in console).
 Copy the new config file from the console
-Paste contents into ~/.oci directory:
 
-vi config (creates new file in vim editor)
+Paste contents into ~/.oci directory:
+<vi config> (creates new file in vim editor)
 	press ‘I’ to insert 
 	paste the new config file 
 	EXAMPLE:
