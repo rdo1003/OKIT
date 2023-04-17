@@ -27,9 +27,14 @@ Paste contents into ~/.oci directory:
 	Press ‘esc’ then type ‘:wq’ (to exit vim editor)
 
 Now, the ~/.oci directory should include all 3 files:
+	
 	config  
 	oci_api_key.pem  
 	oci_api_key_public.pem
+	
+as the user X, navigate to the home directory of the user X…
+***Copy the OCI config file from the ~/.oci directory to the $HOME directory of the VM***
+
 
 Run the following instructions (from https://github.com/oracle/oci-designer-toolkit/blob/master/documentation/Installation.md#oracle-linux)
 to install OKIT in the root directory /okit:
