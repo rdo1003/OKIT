@@ -1,4 +1,4 @@
-# OKIT
+# OKIT -Visualize your OCI Architecture, based off current resources deployed in your tenancy
 How to Install OKIT on a Native Oracle Linux VM
 Link to OKIT Documentation: https://github.com/oracle/oci-designer-toolkit/blob/master/documentation/Installation.md
 
